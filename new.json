@@ -1,4 +1,10 @@
 {
 
 	"P1":"Ilya"
+	"first_name" : "Ilya",
+        "last_name" : "Markel",
+        "patronym" : "Valentinovich",
+	"Age": "23",
+	"position": "QA"
+         
 }
